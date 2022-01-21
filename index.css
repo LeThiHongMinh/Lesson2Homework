@@ -1,0 +1,38 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.ndmotkhoi {
+  padding: 10px;
+  border: 1px solid #c2c2c2;
+  background: rgba(252, 252, 252, 0.56);
+}
+
+.motkhoi h3 {
+  background: #f1c40f;
+  color: #ffffff;
+  padding: 10px 25px;
+}
+
+.hieuung {
+  width: 400px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.container {
+  text-align: center;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3.xanh {
+  background: #acd0ef;
+}
+
+
+
